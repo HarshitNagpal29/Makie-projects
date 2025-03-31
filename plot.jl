@@ -13,6 +13,6 @@ lines!(ax, x, y_cos, label = "cos(x)", color = :orange)
 scatter!(ax, x, y_sin, color = :blue, markersize = 10)
 scatter!(ax, x, y_cos, color = :red, markersize = 10)
 
-Legend(fig[1, 6], ax)
+Legend(fig[1, 2], ax)
 
 display(fig)
