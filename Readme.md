@@ -17,10 +17,8 @@
 ![surfaceplot](images/surfaceplot.png)
 
 # 7. Animation.jl
-<video width="600" controls>
-  <source src="images/sine_wave.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the video](http://img.youtube.com/vi/XcPseP6BeNk/0.jpg)](https://youtu.be/XcPseP6BeNk)
+
 
 # 8. InteractiveWidgets.jl
 ![InteractiveWidgets](images/interactive.jpeg)
