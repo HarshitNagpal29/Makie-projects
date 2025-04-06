@@ -17,7 +17,7 @@
 ![surfaceplot](images/surfaceplot.png)
 
 # 7. Animation.jl
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcPseP6BeNk" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](http://img.youtube.com/vi/XcPseP6BeNk/0.jpg)](https://youtu.be/XcPseP6BeNk)
 
 
 # 8. InteractiveWidgets.jl
